@@ -1,0 +1,1 @@
+select * from JOISH_DB.JOISH_SCHEMA.COMMENTS
